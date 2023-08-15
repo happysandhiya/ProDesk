@@ -1,0 +1,17 @@
+D:\Semester 6\Pemrograman Desktop\CaffePoltek\CaffePoltek\bin\Debug\net7.0-windows\CaffePoltek.exe
+D:\Semester 6\Pemrograman Desktop\CaffePoltek\CaffePoltek\bin\Debug\net7.0-windows\CaffePoltek.deps.json
+D:\Semester 6\Pemrograman Desktop\CaffePoltek\CaffePoltek\bin\Debug\net7.0-windows\CaffePoltek.runtimeconfig.json
+D:\Semester 6\Pemrograman Desktop\CaffePoltek\CaffePoltek\bin\Debug\net7.0-windows\CaffePoltek.dll
+D:\Semester 6\Pemrograman Desktop\CaffePoltek\CaffePoltek\bin\Debug\net7.0-windows\CaffePoltek.pdb
+D:\Semester 6\Pemrograman Desktop\CaffePoltek\CaffePoltek\obj\Debug\net7.0-windows\CaffePoltek.csproj.AssemblyReference.cache
+D:\Semester 6\Pemrograman Desktop\CaffePoltek\CaffePoltek\obj\Debug\net7.0-windows\CaffePoltek.Form1.resources
+D:\Semester 6\Pemrograman Desktop\CaffePoltek\CaffePoltek\obj\Debug\net7.0-windows\CaffePoltek.csproj.GenerateResource.cache
+D:\Semester 6\Pemrograman Desktop\CaffePoltek\CaffePoltek\obj\Debug\net7.0-windows\CaffePoltek.GeneratedMSBuildEditorConfig.editorconfig
+D:\Semester 6\Pemrograman Desktop\CaffePoltek\CaffePoltek\obj\Debug\net7.0-windows\CaffePoltek.AssemblyInfoInputs.cache
+D:\Semester 6\Pemrograman Desktop\CaffePoltek\CaffePoltek\obj\Debug\net7.0-windows\CaffePoltek.AssemblyInfo.cs
+D:\Semester 6\Pemrograman Desktop\CaffePoltek\CaffePoltek\obj\Debug\net7.0-windows\CaffePoltek.csproj.CoreCompileInputs.cache
+D:\Semester 6\Pemrograman Desktop\CaffePoltek\CaffePoltek\obj\Debug\net7.0-windows\CaffePoltek.dll
+D:\Semester 6\Pemrograman Desktop\CaffePoltek\CaffePoltek\obj\Debug\net7.0-windows\refint\CaffePoltek.dll
+D:\Semester 6\Pemrograman Desktop\CaffePoltek\CaffePoltek\obj\Debug\net7.0-windows\CaffePoltek.pdb
+D:\Semester 6\Pemrograman Desktop\CaffePoltek\CaffePoltek\obj\Debug\net7.0-windows\CaffePoltek.genruntimeconfig.cache
+D:\Semester 6\Pemrograman Desktop\CaffePoltek\CaffePoltek\obj\Debug\net7.0-windows\ref\CaffePoltek.dll
