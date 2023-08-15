@@ -1,0 +1,7 @@
+Nama Produk, Harga, Stock
+Bubur,5000,10
+Biskuit,5000,10
+Wafer,5000,10
+Es Teh,3000,10
+Isotonik,6000,10
+Vitamin,4000,10

@@ -1,0 +1,4 @@
+User, Password, Level
+admin, admin123, admin
+kasir, kasir, kasir
+manager, manager, manager
